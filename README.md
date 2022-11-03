@@ -21,10 +21,10 @@ Práticas de sala de aula valendo alguns pontinhos de ajuda para a segunda prova
 # Prática 01. Agenda Simples.
 Suponha que vocês foram contratados para modelar e implementar uma solução para o seguinte problema:
 Uma escola estava com dificuldade de manter os contatos de pais, responsáveis e alunos para realizar um pequena gincana com os alunos do nono ano. Eles precisavam de um sistema simples que ajudasse a armazenar o contato dessas pessoas com informações de nome, contato de e-mail, contato de telefone, data de nascimento e idade. Além dessas informações, para o aluno, era preciso armazenar também seu número de matrícula que é composto por 5 dígitos, por exemplo, 18101 ou 22201, a restrição para esse número de matrícula é ter apenas dígitos númericos. A turma do nono ano é pequena, e possui apenas 05 alunos. O sistema precisa cadastrar a pessoa e imprimir a lista a lista de informações de todas as pessoas cadastradas, mas também possibilitar a opção de imprimir apenas a lista de responsáveis ou apenas a lista de informações dos alunos.
-a)	Identifique quais classes serão necessárias para modelar a solução do problema. Para cada classe indique seus membros (atributos e métodos). Indique também o relacionamento entre elas.
-b)	Implemente a solução. 
-c)	Considerando a solução desenvolvida em (b) adicione um método que possibilita ao usuário também imprimir as informações específicas de um contato armazenado no sistema usando seu índice ou seu nome. Por exemplo, imprimir contato de índice 4 ou de nome “Maria da Silva”.
-d)	Caso fosse necessário também adicionar os contatos dos 5 professores da turma no nono ano, como a modelagem do problema estabelecida no item (a) seria impactada. Considere que o professor tem também uma matrícula com formada por 5 dígitos númericos, e está associada a uma disciplina específica.
+- a)	Identifique quais classes serão necessárias para modelar a solução do problema. Para cada classe indique seus membros (atributos e métodos). Indique também o relacionamento entre elas.
+- b)	Implemente a solução. 
+- c)	Considerando a solução desenvolvida em (b) adicione um método que possibilita ao usuário também imprimir as informações específicas de um contato armazenado no sistema usando seu índice ou seu nome. Por exemplo, imprimir contato de índice 4 ou de nome “Maria da Silva”.
+- d)	Caso fosse necessário também adicionar os contatos dos 5 professores da turma no nono ano, como a modelagem do problema estabelecida no item (a) seria impactada. Considere que o professor tem também uma matrícula com formada por 5 dígitos númericos, e está associada a uma disciplina específica.
 
 # Prática 02. Controle Remoto.
 Suponha agora que vocês estão sendo convocados para implementar um sistema doméstico de automação. Crie uma classe Televisao e uma classe ControleRemoto que pode controlar o volume e trocar os canais da televisão. O controle de volume permite:
@@ -32,6 +32,6 @@ Suponha agora que vocês estão sendo convocados para implementar um sistema dom
 •	aumentar e diminuir o número do canal em uma unidade
 •	trocar para um canal indicado;
 •	consultar o valor do volume de som e o canal selecionado.
-a)	Identifique quais classes serão necessárias para modelar a solução do problema. Para cada classe indique seus membros (atributos e métodos). Indique também o relacionamento entre elas.
-b)	Implemente a solução. 
-c)	Foi solicitado agora um ControleRemoto para o ar-condicionado e um som, como a modelagem do problema definida no item (a) poderia ser remodelada para conter também essas novas especificações.
+- a)	Identifique quais classes serão necessárias para modelar a solução do problema. Para cada classe indique seus membros (atributos e métodos). Indique também o relacionamento entre elas.
+- b)	Implemente a solução. 
+- c)	Foi solicitado agora um ControleRemoto para o ar-condicionado e um som, como a modelagem do problema definida no item (a) poderia ser remodelada para conter também essas novas especificações.
